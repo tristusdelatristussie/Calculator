@@ -26,7 +26,6 @@ public class Calculator {
         float r = a-b;
         return r;
 
-
     }
     public float divide(float number, float number1){
 
@@ -42,6 +41,7 @@ public class Calculator {
         }else{
 
             float r = a/b;
+
 
         }
 
